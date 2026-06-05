@@ -139,7 +139,7 @@ export default function App() {
             <span className="w-px h-4 bg-slate-800"></span>
             <div className="flex items-center gap-2 bg-slate-850 py-1 px-3 rounded-md border border-slate-700/40">
               <UserCheck className="w-4 h-4 text-emerald-400" />
-              <span className="font-semibold text-white">Linda (HQ Command)</span>
+              <span className="font-semibold text-white">weldemariam (HQ Command)</span>
             </div>
           </div>
         </div>

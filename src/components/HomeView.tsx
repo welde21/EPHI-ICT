@@ -72,8 +72,9 @@ export default function HomeView({ systems, tickets, onNavigate }: HomeViewProps
           </div>
           <div className="space-y-1">
             <p className="text-xs text-slate-400 font-mono uppercase tracking-wider">Active Investigator</p>
-            <p className="text-sm font-semibold text-slate-800">Linda (Support Manager)</p>
+            <p className="text-sm font-semibold text-slate-800">weldemariam (Support Manager)</p>
             <p className="text-xs text-slate-500">lindaephi@gmail.com</p>
+            <p className="text-xs text-slate-400 font-mono">Phone: 0946674151</p>
             <p className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded inline-block font-medium mt-1">EPHI-HQ Command</p>
           </div>
         </div>

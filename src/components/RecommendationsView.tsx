@@ -344,7 +344,7 @@ export default function RecommendationsView({ tickets }: RecommendationsViewProp
           {/* Report Footer signatures */}
           <div className="border-t border-slate-300 pt-5 mt-8 flex flex-col sm:flex-row justify-between text-[11px] text-slate-500 font-mono gap-4">
             <div className="text-center sm:text-left">
-              <p className="font-bold font-sans text-slate-700">Linda</p>
+              <p className="font-bold font-sans text-slate-700">weldemariam</p>
               <p>ICT Operations Secretariat Lead</p>
             </div>
             <div className="text-center sm:text-right">
