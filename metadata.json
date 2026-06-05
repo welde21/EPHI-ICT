@@ -1,0 +1,6 @@
+{
+  "name": "EPHI ICT Support Copilot",
+  "description": "An intelligent ICT support copilot and dashboard for the Ethiopian Public Health Institute (EPHI), automating diagnostics, logging, performance analytics, and support recommendation reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
